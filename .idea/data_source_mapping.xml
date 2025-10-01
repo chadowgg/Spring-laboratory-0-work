@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/Test-Project/src/main/resources/db/migration/V3__init_cart.sql" value="5e8bdf08-8dee-423f-8364-306c12b3f6bb" />
+    <file url="file://$PROJECT_DIR$/Test-Project/src/main/resources/db/migration/V4__init_cart_item.sql" value="5e8bdf08-8dee-423f-8364-306c12b3f6bb" />
+  </component>
+</project>
